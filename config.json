@@ -1,0 +1,18 @@
+{
+    "fields": [
+        "candidate_id",
+        "full_name",
+        "emails",
+        "phones",
+        "location",
+        "skills",
+        "current_company",
+        "title",
+        "provenance",
+        "overall_confidence"
+    ],
+
+    "rename": {
+        "full_name": "candidate_name"
+    }
+}

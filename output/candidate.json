@@ -1,0 +1,48 @@
+{
+    "candidate_id": "3e9bb4c5b8d86032708e5c7b4540dd0da58e6ae4d5a17ed5fdcaa6899dc51821",
+    "candidate_name": "Kanushka Joshi",
+    "emails": [
+        "kanushka@gmail.com"
+    ],
+    "phones": [
+        "+919876543210"
+    ],
+    "location": "Pune, India",
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Java"
+    ],
+    "current_company": "Barclays",
+    "title": "Technology Intern",
+    "provenance": {
+        "full_name": {
+            "sources": [
+                "Recruiter CSV"
+            ]
+        },
+        "email": {
+            "sources": [
+                "Recruiter CSV"
+            ]
+        },
+        "phone": {
+            "sources": [
+                "Recruiter CSV"
+            ]
+        },
+        "location": {
+            "sources": [
+                "GitHub"
+            ]
+        },
+        "skills": {
+            "sources": [
+                "GitHub",
+                "Resume"
+            ]
+        }
+    },
+    "overall_confidence": 0.75
+}
